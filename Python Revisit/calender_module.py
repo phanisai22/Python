@@ -12,7 +12,7 @@ print()
 print(calendar.monthcalendar(2000, 2))
 print()
 
-# Entire Year in Calander view.
+# Entire Year in Calender view.
 print(calendar.calendar(2000))
 
 print(calendar.weekday(2000, 2, 22))
@@ -20,6 +20,3 @@ print(calendar.isleap(2000))
 
 how_many_leap_days = calendar.leapdays(2000, 2020)
 print(how_many_leap_days)
-
-# A pycharm commit
-# A pycharm recommit
