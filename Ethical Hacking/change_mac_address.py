@@ -21,9 +21,9 @@ def get_arguments():
 def change_mac(interface, mac_address):
     print("[+] Changing the mac address for " + interface + " to " + mac_address)
 
-    subprocess.call(["sudo", "/sbin/ifconfig", interface, "down"])
-    subprocess.call(["sudo", "/sbin/ifconfig", interface, "hw", "ether", mac_address])
-    subprocess.call(["sudo", "/sbin/ifconfig", interface, "up"])
+    subprocess.call(["ifconfig", interface, "down"])
+    subprocess.call(["ifconfig", interface, "hw", "ether", mac_address])
+    subprocess.call(["ifconfig", interface, "up"])
 
 
 def get_mac(interface):

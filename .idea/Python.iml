@@ -7,6 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="HackerRank" />
+    <orderEntry type="module" module-name="Become-a-Python-Data-AnalystV2B-master" />
+    <orderEntry type="module" module-name="Data-science" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
