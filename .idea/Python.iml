@@ -9,6 +9,8 @@
     <orderEntry type="module" module-name="HackerRank" />
     <orderEntry type="module" module-name="Become-a-Python-Data-AnalystV2B-master" />
     <orderEntry type="module" module-name="Data-science" />
+    <orderEntry type="module" module-name="Coursera" />
+    <orderEntry type="module" module-name="Coursera-Algorithmic-Toolbox-master" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

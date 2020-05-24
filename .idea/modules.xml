@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/Become-a-Python-Data-AnalystV2B-master/.idea/Become-a-Python-Data-AnalystV2B-master.iml" filepath="$USER_HOME$/Documents/Become-a-Python-Data-AnalystV2B-master/.idea/Become-a-Python-Data-AnalystV2B-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Coursera/.idea/Coursera.iml" filepath="$PROJECT_DIR$/../Coursera/.idea/Coursera.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/Coursera-Algorithmic-Toolbox-master/.idea/Coursera-Algorithmic-Toolbox-master.iml" filepath="$USER_HOME$/Downloads/Compressed/Coursera-Algorithmic-Toolbox-master/.idea/Coursera-Algorithmic-Toolbox-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Data-science/.idea/Data-science.iml" filepath="$PROJECT_DIR$/../Data-science/.idea/Data-science.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HackerRank/.idea/HackerRank.iml" filepath="$PROJECT_DIR$/../HackerRank/.idea/HackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
