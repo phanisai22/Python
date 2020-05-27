@@ -1,1 +1,0 @@
-Contains projects assigned by Udemy courses.
