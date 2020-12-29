@@ -15,14 +15,16 @@ def load_images(card_images):
     #     for each suit , retrieve the image for the card .
     for suit in suits:
         #       first the number cards 1 to 10
+        # /mnt/NV/DocumentsNV/Github/Python/modulesAndFunctions/blackJack/cards
+        # cards/{}_{}.{}
         for card in range(1, 11):
-            name = 'cards/{}_{}.{}'.format(str(card), suit, extension)
+            name = '/mnt/NV/DocumentsNV/Github/Python/modulesAndFunctions/blackJack/cards/{}_{}.{}'.format(str(card), suit, extension)
             image = tkinter.PhotoImage(file=name)
             card_images.append((card, image,))
 
         # for face cards
         for card in face_cards:
-            name = 'cards/{}_{}.{}'.format(str(card), suit, extension)
+            name = '/mnt/NV/DocumentsNV/Github/Python/modulesAndFunctions/blackJack/cards/{}_{}.{}'.format(str(card), suit, extension)
             image = tkinter.PhotoImage(file=name)
             card_images.append((10, image,))
 
